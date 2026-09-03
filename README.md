@@ -26,6 +26,4 @@ Ters çevirmek istediğiniz metni girin: Merhaba dünya!
 Ters çevrilmiş metin: !aynüd abahreM
 ```
 
-## Yazar
 
-Kodland
